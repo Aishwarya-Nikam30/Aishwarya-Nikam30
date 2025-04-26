@@ -1,54 +1,76 @@
-Hi there 👋, I'm Aishwarya Nikam
-🌟 DevOps Engineer with 4+ years of hands-on experience automating, scaling, and securing cloud-native environments.
+# Welcome to My GitHub 👋
 
-🔧 Tech Stack:
+Hi, I'm **Aishwarya Nikam**, a passionate **DevOps Engineer** with **4+ years** of experience in cloud infrastructure, automation, and container orchestration.
 
-Cloud Platforms: AWS | Azure | GCP
+---
 
-IaC & Automation: Terraform | Ansible | Shell Scripting
+## 🚀 About Me
 
-Containers & Orchestration: Docker | Kubernetes
+- 🔭 I’m currently deepening my skills in **AWS Solutions Architecture**.
+- 🛠️ Working with **Kubernetes, Terraform, AWS, Docker, Ansible, Jenkins, ArgoCD**, and more.
+- 🌱 Always learning about **cloud-native technologies** and **DevOps best practices**.
+- 👯 I’m looking forward to collaborating on **cloud projects** and **DevOps tooling**.
+- ⚡ Fun fact: I love automating everything that can be automated! 🚀
 
-CI/CD: Jenkins | ArgoCD | Maven
+---
 
-Monitoring & Observability: Prometheus | Grafana | AWS CloudWatch
+## 🛠 Tools & Technologies
 
-Collaboration: GitHub | BitBucket | Jira | Confluence
+- ☁️ **Cloud:** AWS | Azure | GCP
+- 🛠️ **Infrastructure as Code:** Terraform | Ansible
+- 🐳 **Containerization:** Docker | Kubernetes
+- 🔄 **CI/CD:** Jenkins | ArgoCD | Maven
+- 📈 **Monitoring:** Prometheus | Grafana | AWS CloudWatch
+- 🔗 **Version Control:** Git | GitHub | Bitbucket
+- 📚 **Databases:** MySQL (RDS) | Oracle
+- 💬 **Collaboration Tools:** Jira | Confluence
+- 💻 **Scripting:** Shell Scripting | Groovy | YAML | Java
+- 🖥️ **Operating Systems:** Linux (Ubuntu, CentOS, RHEL) | Windows
 
-🚀 Currently Working On:
+---
 
-Enhancing skills in AWS Solutions Architecture
+## 🏆 GitHub Contribution Streak
 
-Building reusable Terraform modules and Kubernetes Helm charts
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-Nikam30&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-📚 Certifications:
+> 
 
-AWS Certified Cloud Practitioner
+---
 
-AWS Solutions Architect – Associate (in progress)
+## 📚 Projects
 
-🌱 Passionate About:
+- **AWS Infrastructure with Terraform**:  
+  Provisioned secure, scalable, and resilient cloud architecture using Terraform modules on AWS.
+  
+- **Kubernetes Cluster Deployment**:  
+  Designed and deployed multi-node Kubernetes clusters using kubeadm, Helm charts, and ingress controllers.
 
-Building resilient infrastructure
+- **End-to-End CI/CD Pipeline**:  
+  Developed robust CI/CD pipelines using Jenkins and ArgoCD for automated builds, tests, and deployments.
 
-Optimizing cloud cost and performance
+- **Monitoring Stack for Kubernetes**:  
+  Built a complete monitoring solution with Prometheus, Grafana, and Alertmanager for containerized workloads.
 
-Creating seamless and secure DevOps pipelines
+---
 
-📫 Connect With Me:
+## 🧠 Soft Skills
 
-LinkedIn : linkedin.com/in/aishanikam30
+- 🔥 Problem Solving
+- 🤝 Team Collaboration
+- 🧩 Critical Thinking
+- 📈 Continuous Learning
+- 🗣️ Effective Communication
+- 📅 Time Management
 
-📧 aishwarya.nikam3009@gmail.com
+---
 
-📈 GitHub Stats
+## 📫 How to Reach Me
 
+- 📧 Email: aishwarya.nikam3009@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/aishanikam30](https://linkedin.com/in/aishanikam30)
 
-🚀 Recent Projects
-🌐 AWS Infrastructure with Terraform
+---
 
-🔄 End-to-End CI/CD Pipeline with Jenkins + ArgoCD
-
-📊 Monitoring Stack (Prometheus + Grafana) for Kubernetes
-
-🌍 Let's collaborate, automate, containerize, and innovate together! 🚀
+## ✨ Let's Connect and Build Amazing Things Together!
