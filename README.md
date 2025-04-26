@@ -1,16 +1,54 @@
-## Hi there 👋
+Hi there 👋, I'm Aishwarya Nikam
+🌟 DevOps Engineer with 4+ years of hands-on experience automating, scaling, and securing cloud-native environments.
 
-<!--
-**Aishwarya-Nikam30/Aishwarya-Nikam30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech Stack:
 
-Here are some ideas to get you started:
+Cloud Platforms: AWS | Azure | GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IaC & Automation: Terraform | Ansible | Shell Scripting
+
+Containers & Orchestration: Docker | Kubernetes
+
+CI/CD: Jenkins | ArgoCD | Maven
+
+Monitoring & Observability: Prometheus | Grafana | AWS CloudWatch
+
+Collaboration: GitHub | BitBucket | Jira | Confluence
+
+🚀 Currently Working On:
+
+Enhancing skills in AWS Solutions Architecture
+
+Building reusable Terraform modules and Kubernetes Helm charts
+
+📚 Certifications:
+
+AWS Certified Cloud Practitioner
+
+AWS Solutions Architect – Associate (in progress)
+
+🌱 Passionate About:
+
+Building resilient infrastructure
+
+Optimizing cloud cost and performance
+
+Creating seamless and secure DevOps pipelines
+
+📫 Connect With Me:
+
+LinkedIn : linkedin.com/in/aishanikam30
+
+📧 aishwarya.nikam3009@gmail.com
+
+📈 GitHub Stats
+
+
+🚀 Recent Projects
+🌐 AWS Infrastructure with Terraform
+
+🔄 End-to-End CI/CD Pipeline with Jenkins + ArgoCD
+
+📊 Monitoring Stack (Prometheus + Grafana) for Kubernetes
+
+🌍 Let's collaborate, automate, containerize, and innovate together! 🚀
