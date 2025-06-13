@@ -68,8 +68,7 @@ Hi, I'm **Aishwarya Nikam**, a passionate **DevOps Engineer** with **4+ years** 
 
 ## 📫 How to Reach Me
 
-- 📧 Email: aishwarya.nikam3009@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/aishanikam30](https://linkedin.com/in/aishanikam30)
+- 📧 Email: aishwarya.nikam3009@gmail.com / aishwarya.nikam4@gmail.com
 
 ---
 
